@@ -19,3 +19,9 @@ This will bring up a browser window.
 
 
 ![Running streamlit](https://raw.githubusercontent.com/cmcneile/streamlit_tutorial/refs/heads/main/pictures/basicStreamLit.png)
+
+To run a streamlit App 
+
+
+
+* This video shows [how to run a streamlit App](https://youtu.be/g_BgGgFNnV8) at the University of Plymouth.
