@@ -20,3 +20,7 @@ github repository.
 
 ![Deploy screen 2](https://raw.githubusercontent.com/cmcneile/streamlit_tutorial/refs/heads/main/pictures/appDepoly2.png)
 
+## Exercise 2
+
+Deploy one of the examples you developed in exercise 1 to the web.
+
