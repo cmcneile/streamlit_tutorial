@@ -6,7 +6,7 @@ of time.
 The aim of the exercise is to run the script [bit_coin.py](https://github.com/cmcneile/streamlit_tutorial/blob/main/scripts/bit_coin.py)
 
 * Download the script bit_coin.py
-* In the annconda prompt run:  **streamlit run bit_coin.py **
+* In the annconda prompt run:  **streamlit run bit_coin.py**
 
 The web App should look like the below in the browser
 
