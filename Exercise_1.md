@@ -10,5 +10,5 @@ The aim of the exercise is to run the script [bit_coin.py](https://github.com/cm
 
 The web App should look like the below in the browser
 
-[lineplot screenshot](https://raw.githubusercontent.com/cmcneile/streamlit_tutorial/refs/heads/main/pictures/lineEg.png)
+![lineplot screenshot](https://raw.githubusercontent.com/cmcneile/streamlit_tutorial/refs/heads/main/pictures/lineEg.png)
 
