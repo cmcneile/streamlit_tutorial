@@ -1,9 +1,8 @@
 # Tutorial on the streamlit web application
 
 This is a short tutorial on the [streamlit](https://streamlit.io/)
-web application that can be used to create dashboards or to deploy
-machine learning models.
-
+web application that can be used to create dashboards, deploy
+machine learning models, data-driven web apps, and interactive user interfaces.
 
 ##  Exercises
 
