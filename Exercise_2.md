@@ -9,7 +9,7 @@ See this [example](https://gwt9pfjgj96hgvn8mhr9kj.streamlit.app/)
 The steps are
 
 * register an account with the [Streamlit Community Cloud](https://share.streamlit.io/)
-* Register with [github](https://github.com/)
+* Register with [github](https://github.com/) See how [to edit a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories).
 
 The App Python script is stored in the github directory.
 
