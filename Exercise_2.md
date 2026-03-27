@@ -16,7 +16,11 @@ The App Python script is stored in the github directory.
 The Streamlit cloud refers to the Python script stored in the
 github repository.
 
+This is a screenshot of the streamlit cloud. Click on the github link.
+
 ![Deploy screen 1](https://raw.githubusercontent.com/cmcneile/streamlit_tutorial/refs/heads/main/pictures/appDepoly1.png)
+
+The screenshot shows how to link a file in a github repository to the streamlit cloud
 
 ![Deploy screen 2](https://raw.githubusercontent.com/cmcneile/streamlit_tutorial/refs/heads/main/pictures/appDepoly2.png)
 
